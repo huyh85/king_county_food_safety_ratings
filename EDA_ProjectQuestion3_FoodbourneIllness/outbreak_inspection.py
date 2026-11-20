@@ -1,4 +1,11 @@
-"""Collect King County foodborne outbreak data and analyze inspections."""
+"""
+Tony Hang, Jaiden Poon, Amy Li
+CSE 163 A
+
+A file that contains CSE 163 Project Exploration
+Data Collection for the King County's Public
+Health Safety - Foodborne Outbreak
+"""
 
 from pathlib import Path
 import string
