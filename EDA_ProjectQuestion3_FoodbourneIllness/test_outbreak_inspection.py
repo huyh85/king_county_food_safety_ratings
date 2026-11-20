@@ -1,4 +1,11 @@
-"""Unit tests for the outbreak_inspection module."""
+"""
+Tony Hang, Jaiden Poon, Amy Li
+CSE 163 A
+
+A file that contains CSE 163 Project Exploration
+Data Unit Test for the King County's Public
+Health Safety - Foodborne Outbreak
+"""
 
 import unittest
 import pandas as pd
