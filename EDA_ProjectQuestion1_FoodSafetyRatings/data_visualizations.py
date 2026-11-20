@@ -1,3 +1,11 @@
+"""
+Tony Hang, Jaiden Poon, Amy Li
+CSE 163 A
+
+A file that contains CSE 163 Project Exploration
+Data Visualization for the King County's Public
+Health Safety - Food Handling Certification
+"""
 
 import pandas as pd
 import matplotlib.pyplot as plt
